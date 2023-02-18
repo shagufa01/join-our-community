@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.join-our-community {
+    width: 100vw;
+    height: 50vh;
+    padding: 90px 400px 0px 180px;
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgba(55,165,162,255);
+    letter-spacing: 2px;
+}
+
+.join-our-community h3 {
+    margin-bottom: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgba(204,221,104,255);
+    letter-spacing: 1px;
+}
+
+.join-our-community p {
+    line-height: 35px;
+    color: rgba(184,187,194,255);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+.monthly-subscription {
+    background-color: rgba(43,179,177,255);
+    height: 50vh;
+    width: 50vw;
+    padding: 70px 200px 0px 180px;
+}
+
+.why-us {
+    background-color: rgba(74,190,189,255);
+    height: 50vh;
+    width: 50vw;
+    padding: 70px 400px 0px 90px;
+}
+
+.section-two {
+    display: flex;
+}
+
+.monthly-subscription h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.span1 {
+    font-size: 40px;
+    font-family: 'Karla', sans-serif;
+    color: white;
+    margin-right: 10px;
+}
+
+.span2 {
+    color: rgba(255, 255, 255, 0.566);
+    font-family: 'Karla', sans-serif;
+}
+
+.price {
+    margin-bottom: 20px;
+}
+
+h6 {
+    color: rgba(255, 255, 255, 0.785);
+    font-size: 16px;
+    font-weight:normal;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 30px;
+}
+
+button {
+    width: 240px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: rgba(191,223,50,255);
+    border-radius: 5px;
+    box-shadow: 2px 3px #bfdf32a0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.why-us h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.why-us p {
+    color: rgba(255, 255, 255, 0.566);
+    font-family: 'Karla', sans-serif;
+    line-height: 30px;
+}
