@@ -93,6 +93,12 @@ button {
     font-weight: bold;
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: #3c460ffe ;
+    font-size: large;
+}
+
 .why-us h3 {
     font-family: 'Noto Sans JP', sans-serif;
     color: white;
